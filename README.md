@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/fha1cv4Le2lVRXXJsc/giphy.gif?cid=ecf05e47img5vpst86pk43ey6rufm1azq9damy0l62bgt7j5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 <p><em>BCA Student at <a href="https://www.iec.edu.in//">IEC Group of institute</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rudraa01.github.io/Rudra-s-Portfolio/)
 [![instagram](https://img.shields.io/badge/instagram-fe02bf?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rudra.aaaaa/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rudracavin?t=1XoePwe1yJAjJa1Mc6fwEw&s=09)
 [![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudraa01)
