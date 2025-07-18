@@ -18,7 +18,6 @@ located_in: India 🇮🇳
 current_job: BCA Student
 education:
   - "Bachelor of Computer Applications"
-  - "IEC Group of Institute"
   
 fields_of_interests:
   - "Web Development"
