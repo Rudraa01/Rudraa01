@@ -10,7 +10,7 @@
 
 ## About Me
 
-<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350">
+<img align='right' src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="350">
 
 ```yaml
 name: Rudra Vishwakarma
